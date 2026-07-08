@@ -1,5 +1,23 @@
 # Version Log
 
+## R07 - 2026-07-08
+
+HR-reviewed duplicate-reduced EV Technical Manager resume package.
+
+Focus areas:
+
+- Removed duplicated R06-style proof blocks and consolidated repeated model, CAN, validation, supplier, and release evidence into fewer stronger sections
+- Rebalanced the two-page visual layout with selected delivery proof on page 1 and detailed platform/toolkit/quality leadership proof on page 2
+- Strengthened Technical Manager positioning around programme cadence, requirements-to-release governance, supplier DVP, validation evidence, risk closure, and release readiness
+- Preserved privacy-clean wording by avoiding supplier/project codes, file names, archive names, and specific internal project identifiers
+- Kept technical ATS terms woven into normal sections: MATLAB/Simulink/Stateflow, eVCU/BMS/VCU, CAN/J1939, DBC, MF4, MOT, A2L, DCDC/OBC/PDU, ISO 26262, IATF 16949, MIL/SIL/HIL, ICAT, and ARAI
+
+Package notes:
+
+- Includes DOCX, rendered PDF, ATS/plain-text copy, README, and HR review notes.
+- Render workflow confirmed exactly two pages with no clipping or overlap.
+- Text audit confirmed required technical terms are present and removed project/file identifiers are absent.
+
 ## R06 - 2026-07-08
 
 Privacy-clean full two-page automotive EV software and technical lead resume.

@@ -1,0 +1,67 @@
+KULDEEP SINGH
+EV Technical Manager | Automotive Software Lead - eVCU/BMS, MBD, CAN, HV Battery
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+EXECUTIVE SUMMARY
+EV Technical Manager and automotive software lead with 8 years delivering commercial EV, hybrid bus, HV battery, embedded electronics, and vehicle integration programmes from requirements through model-based software, supplier integration, validation evidence, and ICAT/ARAI homologation. Combines hands-on MATLAB/Simulink/Stateflow, eVCU/BMS/VCU logic, CAN/J1939 diagnostics, HV battery/charging, DCDC/OBC/PDU integration, and release discipline with cross-functional team and supplier leadership.
+
+TECHNICAL MANAGER FIT
+- Lead-level ownership: requirements, architecture, SORs, supplier interfaces, model logic, calibration, integration, validation, certification evidence, and release readiness.
+- Hands-on software depth: Simulink/Stateflow controls, eVCU/BMS/VCU functions, CAN/J1939/DBC communication, diagnostics, fault handling, safe-state logic, and calibration artefacts.
+- Proven delivery: ARAI/ICAT-certified programmes, 16T P4 hybrid bus, 6.5T and 5T commercial EV platforms, 5 kWh to 300 kWh HV battery systems, and 25% fuel-efficiency validation.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Lead EV and P4 hybrid product development across ECU application software, HV battery engineering, power electronics, supplier development, vehicle integration, validation, and homologation readiness.
+- Develop BMS/eVCU/VCU application software in MATLAB/Simulink/Stateflow for drive, charge, assist, regen, diagnostics, derating, fault response, precharge, active discharge, and safe-state behaviour.
+- Define SORs, component specifications, CAN signal interfaces, test evidence, and supplier deliverables for motor, HV battery, PDU, DCDC, OBC, gearbox, controllers, HVAC, telematics, instrumentation, and embedded electronics.
+- Architect certified commercial EV systems from requirement capture through ICAT/ARAI outputs, linking hardware, software, supplier readiness, vehicle validation, issue closure, and release documentation.
+- Design and package 5 kWh to 300 kWh HV battery systems across 72V-800V LFP, NMC, LTO, and ultra-capacitor chemistries, including BMS/BMU logic, contactor/precharge, BTMS/HVAC, charging handshake, and pack integration.
+- Use CAN diagnostics, DBC review, MF4/test-data analysis, bench and vehicle testing, calibration review, DFMEA/RCA, and MIL/SIL/HIL-ready model practices to reduce validation cycles and close issues.
+- Manage internal engineering teams and external suppliers across mechanical, electrical, software, battery, power electronics, quality, and vehicle integration workstreams; report risk, readiness, and closure to leadership.
+
+MODEL-BASED CONTROLS & VALIDATION PROOF
+- Independently developed a project-verified hybrid control model in MATLAB/Simulink/Stateflow with final model revisions, generated target outputs, calibration artefacts, and bench/vehicle validation evidence.
+- Implemented control logic for torque/speed requests, assist/regen, temperature derate, BMS state, SOC, charging limits, contactor/precharge, fault reset, MCU enable, active discharge, DTC/DM01-style diagnostics, and telematics status.
+- Built CAN/J1939 and DBC-based communication across VCU, BMS, motor controller, charger, telematics, remote access, battery status, motor status, vehicle status, and EV fault signals.
+- Used MF4 logs and code-log evidence to tune assist/regen calibration, temperature derate around 40-42 degC, cut-off voltage changes, charging limits, and validation-oriented release updates.
+
+SELECTED DELIVERY PROOF
+- 16T P4 hybrid bus: ICAT-certified platform with super-capacitor energy storage and validated 25% fuel-efficiency improvement; supported system integration, pilot fleet trials, validation evidence, and certification readiness.
+- 6.5T LCV/LPT commercial EV: ARAI-homologated platform with 80 kW powertrain, 53 kWh / 320V LFP battery, and 119 km range; contributed eVCU/BMS logic, DCDC/PDU/OBC integration, diagnostics, safety logic, and validation.
+- 5T commercial EV: supported 80 kW powertrain, 56 kWh / 310V NMC battery system, 140 km range target, HV battery integration, power electronics interfaces, supplier coordination, and vehicle validation.
+
+SELECTED PROGRAMMES & QUANTIFIED PROOF
+- Hybrid controls programme: Simulink/Stateflow model with torque/speed, assist/regen, BMS charge, CAN/J1939, telematics, diagnostics, MF4 logs, MOT firmware output, and A2L calibration evidence.
+- Multi-platform EV conversions: supported sedan and light commercial EV conversions across HV battery, charger, DCDC, controller, vehicle controls, diagnostics, CAN integration, and validation.
+
+TECHNICAL PORTFOLIO
+- Battery and charging: 53 kWh/332V LFP truck pack, 11.5 kWh/332V LTO hybrid bus pack, 28 kWh NMC pack, 0.5 kWh/400V ultra-capacitor pack, AC/DC charging controller logic, charger/BMS/VCU coordination, HV-LV handshake, contactor/precharge, and fault response.
+- Control and diagnostics: torque request, speed limit, gear, brake, accelerator, MCU enable, fault reset, active discharge, FailGrade, motor speed/torque/current, DC voltage/current, DTC/SPN-style diagnostics, remote access, and vehicle status interfaces.
+- Embedded electronics: LV/HV PDU, STM32F4/F1 instrument cluster, Quectel dual-CAN telematics unit, ultra-capacitor cell monitoring/control system, battery-related software interfaces, and CAN-based diagnostics.
+- Validation and homologation: ARAI/ICAT evidence, DBC/CAN review, MF4 logs, code-log updates, assist/regen calibration, temperature derate tuning, bench/vehicle testing, validation reports, and release documentation.
+
+TOOLKIT, PROCESS & LEADERSHIP
+- MBD/software: MATLAB, Simulink, Stateflow, Model-Based Design, Embedded C/C++, generated build outputs, A2L, MOT, calibration/measurement artefacts.
+- Networks/diagnostics: CAN, J1939, DBC, ECOCAN-style scripts, Vector CANoe, Peak CAN, Bus Master, CSS Electronics, MF4 logs, UDS-aware diagnostics, DTC/SPN concepts.
+- EV systems: eVCU, VCU, BMS, HV battery, LFP, NMC, LTO, ultra-capacitor, DCDC, OBC, PDU, charger, contactor, precharge, BTMS/HVAC, motor controller, e-drive/EDU, hybrid powertrain.
+
+QUALITY, SAFETY & SUPPLIER LEADERSHIP
+- Run programme cadence from vehicle objectives to software requirements, interface freeze, supplier DVP, vehicle validation, release notes, and issue closure.
+- Requirements and release governance: maintain SORs, component specifications, validation evidence, supplier acceptance criteria, and release documentation from requirement to vehicle sign-off.
+- Translate test data into model changes, CAN/DBC updates, calibration decisions, supplier actions, risk closure, and certification evidence.
+- Safety and quality methods: apply ISO 26262 awareness, IATF 16949 discipline, DFMEA/RCA, Six Sigma, DMAIC, SPC, control charts, and production-readiness review habits.
+- Supplier leadership: align motor controller, HV battery/BMS, charger, DCDC/OBC/PDU, telematics, instrumentation, and embedded electronics suppliers against test evidence and issue closure.
+- Team leadership: guide mechanical, electrical, embedded software, battery, power electronics, quality, and vehicle integration teams with clear risk, readiness, and closure reporting.
+- Decision balance: manage range, performance, thermal limits, diagnostics coverage, safety response, supplier readiness, cost, timing, serviceability, and manufacturing constraints.
+- Forward-looking readiness: AUTOSAR basics, SDV awareness, MIL/SIL/HIL readiness, model/code review mindset, and validation-data-driven release decisions.
+
+CERTIFICATIONS
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%
