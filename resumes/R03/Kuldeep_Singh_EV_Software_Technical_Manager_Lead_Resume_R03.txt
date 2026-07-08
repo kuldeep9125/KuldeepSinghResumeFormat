@@ -1,0 +1,65 @@
+KULDEEP SINGH
+EV Software Lead | Technical Manager - eVCU/BMS, MBD, HV Battery & Vehicle Integration
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+EXECUTIVE SUMMARY
+EV software lead and technical manager with 8 years delivering commercial EV, hybrid, battery, embedded electronics, and vehicle integration programmes from concept through validation and ICAT/ARAI homologation. Strong blend of hands-on MATLAB/Simulink/Stateflow model-based software, eVCU/BMS logic, HV battery systems, DCDC/OBC/PDU integration, CAN diagnostics, supplier coordination, and cross-functional delivery leadership. Known for turning requirements, SORs, safety constraints, and supplier interfaces into validated vehicle-level solutions for lead roles across automotive, EV software, embedded systems, powertrain integration, and technical programme execution.
+
+LEAD ROLE FIT
+- EV Software Lead / eVCU-BMS Lead / Vehicle Controls Lead
+- Technical Manager - EV Powertrain, Battery Systems, Embedded Electronics
+- Automotive Embedded Systems, Model-Based Development, and System Integration Lead
+- Validation, Homologation, Supplier Development, and Cross-Functional Delivery Lead
+
+CORE LEADERSHIP STRENGTHS
+- Lead complete EV and P4 hybrid architecture across ECU software, HV battery, power electronics, vehicle controls, validation, supplier development, and certification readiness.
+- Translate product requirements into SORs, functional requirements, safety requirements, model-based control logic, interface definitions, test plans, and release-ready engineering evidence.
+- Manage internal engineering teams and external suppliers across battery, motor, gearbox, DCDC, OBC, PDU, charger, controller, EPS, BCS, TCS, HVAC, sensors, telematics, and embedded electronics.
+- Apply DFMEA, RCA, DMAIC, SPC, control charts, Six Sigma, ISO 26262 awareness, and IATF 16949 process discipline to improve robustness, supplier quality, and validation efficiency.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Lead EV and P4 hybrid product development covering powertrain architecture, ECU application software, battery engineering, supplier development, vehicle integration, validation, and homologation readiness for commercial vehicle electrification programmes.
+- Develop BMS and eVCU application software using MATLAB/Simulink/Stateflow for vehicle operating states, drive readiness, charging mode, DCDC/OBC/PDU coordination, diagnostics, fault response, power sequencing, and safe shutdown behaviour.
+- Architect commercial EV systems from SOR definition through ICAT/ARAI certification outputs, connecting product requirements to hardware, software, testing, supplier deliverables, and vehicle-level evidence.
+- Design and package HV battery systems from 5 kWh to 300 kWh across 72V-800V LFP, NMC, LTO, and ultra-capacitor chemistries, including BMU development, BTMS/HVAC validation, and pack integration.
+- Define component and system specifications for motor, HV battery, PDU, DCDC, OBC, gearbox, controllers, EPS, BCS, TCS, HVAC, telematics, instrumentation, and embedded vehicle electronics.
+- Build EV/hybrid range estimation models and support vehicle-level validation using CAN tools, diagnostics, fault investigation, calibration behaviour review, supplier issue closure, and homologation evidence preparation.
+- Coordinate with senior OEM/Tier-1 leadership, suppliers, and internal teams to maintain component readiness, release-quality software/hardware interfaces, validation closure, and programme delivery discipline.
+
+LEADERSHIP SCOPE & DELIVERY ENVIRONMENT
+- Own lead-level delivery across requirement capture, architecture, supplier SOR, software logic, component readiness, validation evidence, and certification handoff.
+- Bridge mechanical, electrical, embedded software, battery, power electronics, quality, supplier, and vehicle integration teams with clear risk, readiness, and issue-closure communication.
+- Balance hands-on engineering depth with technical management: model reviews, interface decisions, supplier follow-up, validation prioritisation, and release-quality documentation.
+
+SELECTED PROGRAMMES & QUANTIFIED PROOF
+- LCV/LPT commercial EV conversion: ARAI-homologated 6.5T EV with 80 kW powertrain, 53 kWh / 320V LFP battery, and 119 km range; contributed eVCU/BMS logic, vehicle control, DCDC/PDU/OBC integration, charging interfaces, diagnostics, safety logic, and validation support.
+- 5T commercial EV conversion: supported 80 kW powertrain, 56 kWh / 310V NMC battery system, 140 km range target, power electronics interfaces, HV battery integration, supplier coordination, and vehicle validation.
+- 16T P4 hybrid bus: ICAT-certified hybrid platform using super-capacitor energy storage with validated 25% fuel-efficiency improvement; supported vehicle integration, pilot fleet trials, validation evidence, and certification readiness.
+- Sedan and light commercial EV conversion programmes: supported Ambassador and Mahindra Supro EV conversion work across HV battery, charger, DCDC, controller, vehicle control, diagnostics, and validation integration.
+
+HV BATTERY, CHARGING & EV SYSTEMS PORTFOLIO
+- Delivered certified HV battery packs including 53 kWh/332V LFP electric truck pack, 11.5 kWh/332V LTO hybrid bus pack, 28 kWh NMC pack, and 0.5 kWh/400V ultra-capacitor hybrid bus pack.
+- Led battery architecture across electrical, mechanical, thermal, software, and safety interfaces, including contactors, precharge, BMU logic, BTMS/HVAC coordination, charger handshake, and pack-level validation.
+- Integrated AC/DC charging controller logic, DCDC converter, OBC, PDU, HV-LV handshake, charger/BMS/VCU coordination, fault response, and vehicle safety readiness.
+
+EMBEDDED SOFTWARE & VEHICLE ELECTRONICS
+- Developed in-house LV/HV PDU, STM32F4/F1 instrument cluster, Quectel dual-CAN telematics unit, ultra-capacitor cell monitoring/control system, and battery-related software interfaces.
+- Worked with Embedded C/C++, STM32, Microchip PIC, NXP, Infineon exposure, DBC files, CSS Electronics tools, Vector CANoe, Peak CAN, Bus Master, diagnostics, and CAN-based vehicle communication.
+- Built MATLAB/Simulink range estimation and control models for component-level and vehicle-level EV/hybrid scenarios, supporting virtual design decisions and validation planning.
+
+TECHNICAL TOOLKIT
+- EV Software & Controls: MATLAB, Simulink, Stateflow, Model-Based Design, eVCU, VCU, BMS, operating-state logic, diagnostics, fault handling, validation, calibration.
+- Powertrain & Battery: HV battery, LFP, NMC, LTO, ultra-capacitor, DCDC, OBC, PDU, charger, motor, gearbox, EDU/e-drive, power conversion, BTMS/HVAC, AC/DC charging.
+- Embedded & Network: Embedded C/C++, STM32, Microchip PIC, NXP, Infineon, CAN, DBC, Vector CANoe, Peak CAN, Bus Master, CSS Electronics, telematics, instrument cluster.
+- Delivery & Quality: SOR, DFMEA, RCA, DMAIC, SPC, control charts, supplier development, V-model, ISO 26262, IATF 16949, ICAT, ARAI, homologation, Six Sigma.
+
+CERTIFICATIONS
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

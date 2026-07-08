@@ -1,5 +1,22 @@
 # Version Log
 
+## R03 - 2026-07-08
+
+Generic 2-page lead-role resume package.
+
+Focus areas:
+
+- EV Software Lead plus Technical Manager positioning for broad automotive, EV, embedded software, BMS/eVCU, systems integration, supplier leadership, and product development applications
+- eVCU/BMS software, MATLAB/Simulink/Stateflow model-based development, HV battery systems, DCDC/OBC/PDU integration, CAN diagnostics, validation, and homologation
+- Lead-level delivery across architecture, SORs, supplier interfaces, software/hardware integration, validation evidence, and certification handoff
+- Quantified programme proof including 6.5T commercial EV, 5T commercial EV, 16T P4 hybrid bus, 5 kWh to 300 kWh HV battery systems, and 25% fuel-efficiency improvement validation
+
+Package notes:
+
+- Includes DOCX, rendered PDF, ATS/plain-text copy, and README.
+- Resume is company-neutral and built for broad lead-role applications.
+- ATS terms are woven into normal resume sections rather than placed in a standalone keyword section.
+
 ## R02 - 2026-07-08
 
 Targeted EV/software resume pack for top automotive OEMs and EV software suppliers.
