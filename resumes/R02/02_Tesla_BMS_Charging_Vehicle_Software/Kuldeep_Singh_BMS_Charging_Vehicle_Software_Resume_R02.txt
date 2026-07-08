@@ -1,0 +1,41 @@
+KULDEEP SINGH
+BMS, Charging & Vehicle Software Lead | Controls Validation and Firmware Integration
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+EV software and electrification leader targeting vehicle software, BMS firmware, charging integration, and controls validation roles. Brings 8 years of safety-critical EV powertrain experience across eVCU/BMS application software, MATLAB/Simulink/Stateflow model-based controls, HV battery architecture, charging controller logic, DCDC/OBC/PDU integration, fault handling, CAN diagnostics, and vehicle-level validation. Delivered certified commercial EV retrofit systems and certified HV battery packs from 5 kWh to 300 kWh across LFP, NMC, LTO, and ultra-capacitor chemistries.
+
+TARGET ROLE FIT
+- Embedded Firmware Engineer - Battery Management System
+- Software Integration Engineer - Power Conversion & Charging
+- Vehicle Software Controls Validation Engineer
+- Controls / Firmware Engineer - Charging & Energy Products
+
+CORE STRENGTHS
+- Built BMS and eVCU application software for EV systems where battery state, charger state, contactor/precharge conditions, voltage/current limits, and vehicle operating modes must work together safely.
+- Led AC/DC charging controller logic and power conversion interfaces across charger, BMS, VCU/eVCU, contactors, DCDC, OBC, and PDU systems, supporting firmware behaviour for charging, power conversion, and highly physical vehicle products.
+- Validated EV/hybrid systems through model checks, bench/vehicle testing, CAN diagnostics, fault analysis, calibration support, and certification documentation, with DFMEA/RCA and ISO 26262 functional-safety awareness.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Developed BMS and eVCU software using MATLAB/Simulink/Stateflow MBD methodology, translating functional and safety requirements into control logic for drive readiness, charging mode, fault mode, and safe shutdown.
+- Implemented charging controller and power conversion logic across AC/DC charging architectures, DCDC converter, OBC, PDU, HV battery, contactors, and vehicle safety interfaces.
+- Designed HV battery systems from 5 kWh to 300 kWh across 72V-800V LFP, NMC, LTO, and ultra-capacitor architectures, combining software behaviour with pack design, BMU development, and BTMS/HVAC validation.
+- Supported vehicle-level software integration and validation using CAN tools, diagnostics, issue debugging, calibration behaviour review, and structured problem solving.
+- Managed cross-functional suppliers and internal teams across battery, motor, gearbox, DCDC, EPS, BCS, TCS, and HVAC to maintain component readiness and release-quality integration outputs.
+
+SELECTED PROGRAMMES & PROOF
+- LCV/LPT EV conversion: ARAI-homologated 6.5T EV with 80 kW drive and 53 kWh / 320V LFP battery; contributed eVCU/BMS logic, charging interfaces, DCDC/OBC/PDU coordination, diagnostics, and safe operating-state control.
+- Certified battery packs: delivered 53 kWh/332V LFP electric truck pack, 11.5 kWh/332V LTO hybrid bus pack, 28 kWh NMC pack, and 0.5 kWh/400V ultra-capacitor hybrid bus pack.
+- EV charging controller: led AC/DC charging architecture logic, HV-LV handshake, charger/BMS/VCU coordination, fault response, and vehicle safety readiness.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+MATLAB, Simulink, Stateflow, Embedded C/C++, BMS, eVCU, HV battery, power conversion, charging firmware, AC/DC charging, DCDC, OBC, PDU, CAN, diagnostics, Vector CANoe, Peak CAN, ISO 26262, DFMEA, RCA, validation, calibration.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

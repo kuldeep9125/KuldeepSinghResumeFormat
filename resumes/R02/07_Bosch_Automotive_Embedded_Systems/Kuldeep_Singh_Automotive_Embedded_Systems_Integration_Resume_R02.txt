@@ -1,0 +1,41 @@
+KULDEEP SINGH
+Automotive Embedded Systems & EV Integration Lead | Mobility Systems
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+Automotive embedded systems and EV software leader targeting roles involving cross-domain automotive products, embedded software, hardware electronics integration, future vehicle architectures, and system integration. Brings 8 years of eVCU/BMS software, MATLAB/Simulink/Stateflow MBD, embedded C/C++, STM32/NXP/Infineon exposure, CAN diagnostics, HV battery systems, DCDC/OBC/PDU integration, charging controller logic, and vehicle-level validation. Strong fit for roles connecting hardware electronics, embedded software, software architecture, automotive product development, and global engineering delivery.
+
+TARGET ROLE FIT
+- System Integration Engineer - Automotive Applications
+- Embedded Software Engineer - Automotive Products
+- EV / Cross-Domain Vehicle Systems Engineer
+- BMS / ECU Software Integration Lead
+
+CORE STRENGTHS
+- System integration fit: developed cross-domain EV systems linking hardware electronics, embedded software, CAN communication, power electronics, battery systems, vehicle controls, and validation.
+- Embedded systems fit: developed STM32-based instrument cluster, dual-CAN telematics, ultra-capacitor monitoring/control, LV/HV PDU, and eVCU/BMS application software.
+- Automotive product fit: delivered SOR, supplier coordination, validation evidence, quality tools, and ICAT/ARAI homologation readiness for commercial EV and hybrid programmes.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Integrated hardware electronics and embedded software across HV battery, BMS/eVCU, DCDC, OBC, PDU, motor controller, telematics, sensors, and vehicle controls.
+- Developed MATLAB/Simulink/Stateflow eVCU and BMS application software for functional requirements, safety requirements, diagnostics, fault handling, and safe vehicle operating states.
+- Built STM32F4/F1 instrument cluster, Quectel dual-CAN telematics, LV/HV PDU, and ultra-capacitor cell monitoring/control system for in-house EV component development.
+- Defined component/system specifications and SOR documents for supplier sourcing and integration across battery, motor, gearbox, DCDC, EPS, BCS, TCS, HVAC, and controller systems.
+- Used CAN tools, diagnostics, DFMEA, RCA, Six Sigma, ISO 26262 awareness, and IATF 16949 process thinking to support robust automotive product development.
+
+SELECTED PROGRAMMES & PROOF
+- LCV/LPT EV conversion: ARAI-homologated commercial EV with eVCU/BMS logic, vehicle control, charging interfaces, DCDC/OBC/PDU integration, diagnostics, and HV battery coordination.
+- Embedded component suite: delivered LV/HV PDU, STM32 instrument cluster, dual-CAN telematics, ultra-capacitor monitoring/control, and battery-related software interfaces.
+- HV battery systems: packaged and integrated 5 kWh to 300 kWh packs across LFP, NMC, LTO, and ultra-capacitor technologies with BTMS/HVAC validation.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+Embedded C/C++, STM32, Microchip PIC, NXP, Infineon, MATLAB, Simulink, Stateflow, BMS, eVCU, CAN, Vector CANoe, Peak CAN, Bus Master, CSS Electronics, DBC, diagnostics, software architecture, system integration, ISO 26262, IATF 16949.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

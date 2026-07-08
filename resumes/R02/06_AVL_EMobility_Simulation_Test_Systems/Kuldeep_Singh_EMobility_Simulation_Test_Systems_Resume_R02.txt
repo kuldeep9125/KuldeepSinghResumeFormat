@@ -1,0 +1,41 @@
+KULDEEP SINGH
+E-Mobility, Simulation & Test Systems Lead | EV Software Engineering
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+E-mobility software and systems leader targeting roles in electrification, simulation, test/validation systems, charging solutions, and vehicle efficiency engineering. Offers 8 years delivering EV/hybrid systems with MATLAB/Simulink/Stateflow MBD, range estimation models, BMS/eVCU software, charging controller logic, HV battery systems, DCDC/OBC/PDU integration, and validation/homologation support. Strongly aligned with engineering, simulation, testing, electrification, software, AI/automation, battery/e-drive/inverter validation, and model-based virtual development before hardware build.
+
+TARGET ROLE FIT
+- E-Mobility Systems Engineer
+- Software Development Engineer - EV Test / Simulation
+- Battery / E-Drive Test Systems Engineer
+- Model-Based Development / System Integration Engineer
+
+CORE STRENGTHS
+- Built MBD models for component-level and vehicle-level EV/hybrid range estimation, supporting virtual design decisions, vehicle efficiency studies, and validation planning.
+- Led EV charging controller logic and system integration across charger, BMS, eVCU/VCU, DCDC, OBC, PDU, HV battery, contactors, and vehicle safety states.
+- Designed HV battery systems and certified battery packs across LFP, NMC, LTO, and ultra-capacitor chemistries for work around batteries, e-motors, inverters, simulation, testing, and charging solutions.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Developed MATLAB/Simulink/Stateflow control models for eVCU/BMS functions, range estimation, charging logic, and EV/hybrid operating-state behaviour.
+- Integrated EV components and test/validation workflows across battery, motor, gearbox, DCDC, OBC, PDU, charger, controller, telematics, and thermal systems.
+- Applied DFMEA, RCA, Six Sigma, and validation evidence reviews to improve design robustness and shorten test/debug cycles across EV programmes.
+- Led supplier coordination and hardware-software interface definition for battery, motor, gearbox, DCDC, EPS, BCS, TCS, HVAC, and controller systems.
+- Supported vehicle-level validation, certification documentation, and homologation readiness for ICAT/ARAI-certified EV and hybrid programmes.
+
+SELECTED PROGRAMMES & PROOF
+- E-mobility models: created EV/hybrid range estimation and control models for component and vehicle-level scenarios using MATLAB/Simulink.
+- Battery and charging systems: delivered 5 kWh to 300 kWh HV battery systems, AC/DC charging controller logic, DCDC/OBC/PDU integration, and BTMS/HVAC validation.
+- Commercial EV programmes: supported LCV/LPT EV, 5T EV, 16T P4 hybrid bus, sedan, and light commercial EV conversion programmes through integration and validation.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+MATLAB, Simulink, Stateflow, model-based simulation, range estimation, e-mobility, EV test systems, BMS, eVCU, charging systems, DCDC, OBC, PDU, battery testing, e-drive, inverter, CAN, diagnostics, DFMEA, RCA, Six Sigma.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

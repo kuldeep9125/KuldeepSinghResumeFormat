@@ -1,0 +1,41 @@
+KULDEEP SINGH
+EV Powertrain Validation & Controls Lead | EDU, Battery & Software
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+EV powertrain software and validation leader targeting Electric Drive Unit validation, powertrain testing, vehicle controls, battery integration, and software-enabled test/data workflow roles. Brings 8 years in EV and hybrid commercial platforms with MATLAB/Simulink/Stateflow controls, BMS/eVCU software, HV battery architecture, DCDC/OBC/PDU integration, CAN diagnostics, test planning, DFMEA/RCA, Six Sigma, and ICAT/ARAI homologation. Strong fit for roles requiring powertrain testing at component, subsystem, and system levels plus cross-functional issue resolution.
+
+TARGET ROLE FIT
+- EV Powertrain Validation Engineer
+- Electric Drive Unit / EDU Validation Engineer
+- Vehicle Controls & Systems Integration Engineer
+- Battery / Powertrain Software Validation Lead
+
+CORE STRENGTHS
+- Powertrain validation fit: delivered EV and hybrid platforms from architecture to vehicle validation, certification sign-off support, and issue closure using structured problem-solving tools.
+- MATLAB/Simulink and data workflow fit: built range estimation models, control strategies, and verification artefacts; comfortable using model/data analysis to support efficient validation decisions.
+- EDU/electrification fit: integrated motor, gearbox, HV battery, DCDC, OBC, PDU, charger, BMS, controller, and vehicle controls across commercial EV platforms.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Led EV and hybrid system integration across battery, motor, gearbox, DCDC, OBC, PDU, charger, controllers, sensors, telematics, and vehicle control interfaces.
+- Developed eVCU/BMS application software and operating-state logic using MATLAB/Simulink/Stateflow for drive readiness, charging mode, fault handling, power sequencing, and safe shutdown behaviour.
+- Supported vehicle-level validation, test planning, fault investigation, CAN diagnostics, calibration behaviour review, supplier issue closure, and homologation evidence preparation.
+- Applied DFMEA, RCA, DMAIC, Six Sigma, and quality tools to resolve integration issues, reduce validation cycles, and improve design robustness.
+- Managed EV programme deliverables across internal engineering teams and external suppliers, communicating technical risk and readiness at system, subsystem, and component levels.
+
+SELECTED PROGRAMMES & PROOF
+- LCV/LPT EV conversion: ARAI-homologated 6.5T EV with 80 kW powertrain, 53 kWh / 320V LFP battery, and 119 km range; contributed ECU logic, charging interfaces, HV battery coordination, diagnostics, and validation support.
+- 5T commercial EV: supported 80 kW EV conversion with 56 kWh / 310V NMC pack, power electronics interfaces, vehicle validation, and supplier coordination.
+- P4 hybrid bus: integrated super-capacitor electrification kit for a 16T platform, supported ICAT validation, and contributed to 25% fuel-efficiency improvement evidence.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+MATLAB, Simulink, Stateflow, powertrain validation, Electric Drive Unit, EDU, HV battery, BMS, eVCU, CAN, Vector CANoe, Peak CAN, test planning, instrumentation, DFMEA, RCA, Six Sigma, vehicle integration, ISO 26262, ICAT, ARAI.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

@@ -1,0 +1,41 @@
+KULDEEP SINGH
+EV ECU Software Lead | Commercial EV, eVCU/BMS, MBD & Homologation
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+Senior EV ECU software and electrification leader with 8 years delivering commercial EV and hybrid powertrain programmes across trucks, buses, retrofit EVs, and government fleet platforms. Strong fit for roles requiring MATLAB/Simulink/Stateflow model-based development, eVCU/BMS application software, vehicle control logic, DCDC/OBC/PDU integration, V-model delivery, ISO 26262 awareness, supplier coordination, and ICAT/ARAI homologation support. Built and integrated ARAI-homologated LCV/LPT commercial EV systems with 80 kW powertrain and 53 kWh / 320V LFP battery architecture.
+
+TARGET ROLE FIT
+- EV ECU / eVCU Software Lead
+- Model-Based Development Lead - Vehicle Control / BMS
+- Embedded Software / Electrical & Electronics Engineer - Commercial EV
+- Technical Manager - EV Powertrain Integration
+
+CORE STRENGTHS
+- Developed BMS and eVCU application software using MATLAB, Simulink, and Stateflow, converting functional and safety requirements into model-based logic for vehicle control, charging coordination, power-up/power-down sequencing, contactor/precharge handling, and HV-LV handshake behaviour.
+- Defined SOR and component specifications for motor, HV battery, PDU, DCDC, OBC, gearbox, controller, EPS, BCS, TCS, and HVAC systems, aligning supplier deliverables with commercial vehicle engineering gates and programme milestones.
+- Delivered complete EV and P4 hybrid system architecture from concept through validation and ICAT/ARAI homologation, with strong exposure to commercial vehicle integration, quality tools, DFMEA, RCA, and Six Sigma Black Belt methods.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Lead EV and P4 hybrid powertrain architecture, ECU application software, battery engineering, supplier development, vehicle integration, validation, and homologation readiness for commercial vehicle electrification programmes.
+- Architected EV and P4 hybrid systems from SOR definition through ICAT/ARAI homologation, connecting product requirements to hardware, software, testing, and certification outputs.
+- Implemented eVCU/BMS logic for vehicle operating states, drive enable conditions, charging mode, DCDC/OBC/PDU coordination, diagnostics, fault response, and safe shutdown behaviour using MATLAB/Simulink/Stateflow.
+- Built EV/hybrid range estimation models and used DFMEA, RCA, DMAIC, SPC, and control charts to improve design robustness, supplier quality, and validation-cycle efficiency.
+- Collaborated with senior OEM and Tier-1 technical leadership on 16T GVW P4 hybrid ICAT certification and 6T GVW EV ARAI certification readiness.
+
+SELECTED PROGRAMMES & PROOF
+- LCV/LPT EV conversion: ARAI-homologated 6.5T commercial EV, 80 kW powertrain, 53 kWh / 320V LFP battery, 119 km range; contributed MATLAB/Simulink eVCU/BMS logic, vehicle control, DCDC/PDU/OBC integration, charging interfaces, diagnostics, safety logic, and homologation-readiness support.
+- 16T P4 hybrid bus: ICAT-certified hybrid platform with super-capacitor energy storage and validated 25% fuel-efficiency improvement; supported vehicle integration, pilot fleet trials, validation, and certification readiness.
+- In-house EV components: developed LV/HV PDU, STM32F4/F1 instrument cluster, Quectel dual-CAN telematics unit, and ultra-capacitor cell monitoring/control system for embedded vehicle electronics programmes.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+MATLAB, Simulink, Stateflow, Model-Based Design, eVCU, BMS, VCU, Embedded C/C++, STM32, CAN, Vector CANoe, Peak CAN, Bus Master, DBC, ISO 26262, IATF 16949, DFMEA, RCA, Six Sigma, SOR, ARAI, ICAT, commercial EV homologation.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

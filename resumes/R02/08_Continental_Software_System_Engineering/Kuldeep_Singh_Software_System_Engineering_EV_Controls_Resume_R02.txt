@@ -1,0 +1,41 @@
+KULDEEP SINGH
+Software & System Engineering Lead | EV Controls, BMS and Vehicle Integration
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+Automotive software and systems engineering leader targeting roles in software engineering, system engineering, safer mobility, sustainable vehicle technologies, and future mobility solutions. Brings 8 years across EV/hybrid architecture, eVCU/BMS software, MATLAB/Simulink/Stateflow MBD, embedded C/C++, CAN diagnostics, HV battery systems, DCDC/OBC/PDU integration, vehicle validation, and quality-led development. Strong fit for roles needing cross-functional systems thinking, embedded software, EV powertrain integration, safety/process discipline, and customer-ready mobility products.
+
+TARGET ROLE FIT
+- Software Engineering / System Engineering - Automotive
+- EV Systems Integration Engineer
+- Embedded Software Engineer - Mobility Systems
+- BMS / Vehicle Controls Lead
+
+CORE STRENGTHS
+- Software/system engineering fit: led EV architecture, ECU application software, component specifications, supplier interfaces, validation planning, and homologation readiness.
+- Mobility technology fit: delivered EV and hybrid systems that improve efficiency, safety, and sustainability across commercial vehicle applications.
+- Process fit: combined ISO 26262 functional safety awareness, IATF 16949 quality management, DFMEA, RCA, Six Sigma, and validation evidence into structured automotive delivery.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Led EV and P4 hybrid architecture, ECU application software, HV battery engineering, supplier development, validation, and certification readiness for commercial vehicle platforms.
+- Developed MATLAB/Simulink/Stateflow eVCU/BMS logic for vehicle control, charging, DCDC/OBC/PDU coordination, fault handling, diagnostics, and safe operating states.
+- Defined system and component specifications for motor, HV battery, PDU, DCDC, OBC, gearbox, controllers, EPS, BCS, TCS, HVAC, and embedded vehicle electronics.
+- Managed cross-functional engineering and supplier teams to improve component readiness, validation efficiency, system integration, and release-quality software/hardware interfaces.
+- Applied DFMEA, RCA, DMAIC, SPC, and control charts to reduce risk, improve supplier quality, and support automotive compliance deliverables.
+
+SELECTED PROGRAMMES & PROOF
+- Commercial EV systems: LCV/LPT EV, 5T EV, sedan, and light commercial EV conversions with HV battery, charger, DCDC, controller, vehicle control, and validation integration.
+- P4 hybrid bus: 16T ICAT-certified hybrid programme with super-capacitor pack and 25% fuel-efficiency improvement validation.
+- In-house software/electronics: LV/HV PDU, STM32 instrument cluster, dual-CAN telematics, ultra-capacitor cell monitoring/control, and EV range estimation models.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+Software Engineering, System Engineering, MATLAB, Simulink, Stateflow, Embedded C/C++, BMS, eVCU, VCU, CAN, DBC, diagnostics, HV battery, DCDC, OBC, PDU, vehicle integration, ISO 26262, IATF 16949, DFMEA, RCA, Six Sigma.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

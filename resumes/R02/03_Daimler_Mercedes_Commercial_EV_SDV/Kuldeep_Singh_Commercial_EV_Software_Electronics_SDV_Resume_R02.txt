@@ -1,0 +1,41 @@
+KULDEEP SINGH
+Commercial EV Software & Electronics Lead | Embedded SDV Systems
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+PROFESSIONAL SUMMARY
+Commercial EV and hybrid powertrain software leader with 8 years delivering truck, bus, and retrofit electrification systems from architecture through validation and ICAT/ARAI homologation. Strong fit for engineering roles requiring embedded automotive software, MATLAB/Simulink, CAN/LIN/Ethernet mindset, AUTOSAR basics, ISO 26262, software-defined vehicle readiness, supplier coordination, and global team collaboration. Directly supported 5T EV architecture and certified commercial EV and P4 hybrid programmes.
+
+TARGET ROLE FIT
+- Embedded Software Architect / Engineer - Commercial Vehicles
+- EV Powertrain Software Lead - Trucks & Buses
+- Software and Electronics Engineer
+- Vehicle Systems Integration Lead - Electrification
+
+CORE STRENGTHS
+- Strong commercial vehicle fit: LCV/LPT EV, 5T EV, 16T P4 hybrid bus, and 6T GVW EV ARAI certification exposure across trucks and buses.
+- Developed eVCU/BMS application software and system logic for power-up/power-down sequencing, vehicle operating states, DCDC/OBC/PDU integration, charging controller interfaces, diagnostics, and HV-LV handshakes.
+- Comfortable with software/electronics requirements: MATLAB, CAN, embedded software, functional safety, AUTOSAR basics, system decomposition, global coordination, supplier quality, and change-ready product development.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Led EV and P4 hybrid powertrain architecture, ECU software, battery engineering, supplier development, validation, and homologation readiness for commercial vehicle platforms.
+- Supported 5T EV conversion architecture with 80 kW powertrain, 56 kWh / 310V NMC battery system, power electronics interfaces, HV battery integration, vehicle validation, and supplier coordination.
+- Developed MATLAB/Simulink/Stateflow eVCU and BMS logic for functional requirements, safety requirements, V-model verification artefacts, and ISO 26262 ASIL-aligned control behaviour.
+- Integrated vehicle communication and software interfaces across CAN-connected battery, charger, DCDC, OBC, motor controller, PDU, telematics, instrument cluster, EPS, BCS, TCS, and HVAC systems.
+- Managed cross-functional teams and global suppliers while applying DFMEA, RCA, Six Sigma, and validation planning to close integration issues and improve release readiness.
+
+SELECTED PROGRAMMES & PROOF
+- 5T EV conversion: supported EV architecture, 80 kW powertrain, 56 kWh / 310V NMC battery system, 140 km range target, power electronics interfaces, and vehicle validation.
+- LCV/LPT EV and 6T GVW EV ARAI programme: delivered commercial EV software/system integration exposure directly aligned with electric truck and bus development.
+- 16T P4 hybrid ICAT programme: collaborated with senior OEM/Tier-1 leadership on hybrid bus certification and state government pilot fleet trials.
+
+TECHNICAL TOOLKIT & CERTIFICATIONS
+MATLAB, Simulink, Stateflow, Embedded C/C++, CAN, DBC, Vector CANoe, Peak CAN, AUTOSAR basics, ISO 26262, V-model, Git awareness, eVCU, BMS, DCDC, OBC, PDU, HV battery, commercial EV, SDV, trucks, buses, homologation.
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%
