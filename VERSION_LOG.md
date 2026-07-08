@@ -1,5 +1,22 @@
 # Version Log
 
+## R04 - 2026-07-08
+
+Automotive-benchmarked lead-role resume package.
+
+Focus areas:
+
+- Market-aligned EV software and technical lead positioning for automotive OEM, Tier-1, EV startup, and engineering-services screening
+- Page-1 proof for eVCU/BMS ownership, systems leadership, validation depth, V-model traceability, ISO 26262/IATF discipline, AUTOSAR basics, and SDV readiness
+- Stronger current-role bullets around requirements-to-release flow, supplier deliverables, software/hardware integration, CAN diagnostics, MIL/SIL/HIL readiness, and validation evidence
+- Preserved quantified proof: 6.5T EV, 5T EV, 16T P4 hybrid bus, 5 kWh to 300 kWh HV battery systems, and 25% fuel-efficiency validation
+
+Package notes:
+
+- Includes DOCX, rendered PDF, ATS/plain-text copy, README, and benchmark notes.
+- Resume itself avoids isolated ATS/keyword-box wording; optimization terms are integrated into normal sections.
+- Benchmark notes cite current public automotive/EV career and solution pages used for alignment.
+
 ## R03 - 2026-07-08
 
 Generic 2-page lead-role resume package.

@@ -7,6 +7,7 @@ Version-controlled resume repository for Kuldeep Singh.
 - `R01`: EV ECU Software Lead / MATLAB-Simulink Electrification resume
 - `R02`: Targeted EV/software resume pack for Tata/Tata Technologies, Tesla, Daimler/Mercedes, BMW, JLR/Land Rover, AVL, Bosch, and Continental
 - `R03`: Generic 2-page EV Software Lead / Technical Manager resume for broad lead-role applications
+- `R04`: Automotive-benchmarked EV Software & Technical Lead resume optimized against current industry screening signals
 
 ## Versioning Rule
 
@@ -37,6 +38,11 @@ resumes/R02/Kuldeep_Singh_EV_ECU_Software_Lead_ATS_Resume_R02.txt
 - `resumes/R03/*.pdf`: rendered PDF copy for broad applications
 - `resumes/R03/*.txt`: ATS/plain-text copy
 - `resumes/R03/README.md`: R03 package notes
+- `resumes/R04/*.docx`: editable automotive-benchmarked lead resume
+- `resumes/R04/*.pdf`: rendered PDF copy for automotive lead applications
+- `resumes/R04/*.txt`: ATS/plain-text copy
+- `resumes/R04/R04_Benchmark_Notes.md`: comparison notes and research-backed improvement rationale
 - `source/build_ev_resume.py`: generator script used to create the resume package
 - `source/create_r02_targeted_resume_pack.py`: generator script used to create the R02 targeted resume pack
 - `source/create_r03_generic_lead_resume.py`: generator script used to create the R03 generic lead resume
+- `source/create_r04_automotive_benchmarked_resume.py`: generator script used to create the R04 benchmarked resume
