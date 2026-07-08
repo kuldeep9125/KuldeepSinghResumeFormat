@@ -8,7 +8,8 @@ Version-controlled resume repository for Kuldeep Singh.
 - `R02`: Targeted EV/software resume pack for Tata/Tata Technologies, Tesla, Daimler/Mercedes, BMW, JLR/Land Rover, AVL, Bosch, and Continental
 - `R03`: Generic 2-page EV Software Lead / Technical Manager resume for broad lead-role applications
 - `R04`: Automotive-benchmarked EV Software & Technical Lead resume optimized against current industry screening signals
-- `R05`: Project-verified full two-page EV Software & Technical Lead resume integrating NIDEC G02 + Microvast Simulink/Stateflow evidence
+- `R05`: Project-verified full two-page EV Software & Technical Lead resume integrating Simulink/Stateflow evidence
+- `R06`: Privacy-clean full two-page EV Software & Technical Lead resume with project/file identifiers removed from resume text
 
 ## Versioning Rule
 
@@ -47,8 +48,13 @@ resumes/R02/Kuldeep_Singh_EV_ECU_Software_Lead_ATS_Resume_R02.txt
 - `resumes/R05/*.pdf`: rendered PDF copy for applications
 - `resumes/R05/*.txt`: ATS/plain-text copy
 - `resumes/R05/R05_Project_Scan_Notes.md`: high-level source archive scan and integration notes
+- `resumes/R06/*.docx`: editable privacy-clean full two-page resume
+- `resumes/R06/*.pdf`: rendered PDF copy for applications
+- `resumes/R06/*.txt`: ATS/plain-text copy
+- `resumes/R06/R06_Privacy_Clean_Project_Notes.md`: high-level privacy-clean project notes
 - `source/build_ev_resume.py`: generator script used to create the resume package
 - `source/create_r02_targeted_resume_pack.py`: generator script used to create the R02 targeted resume pack
 - `source/create_r03_generic_lead_resume.py`: generator script used to create the R03 generic lead resume
 - `source/create_r04_automotive_benchmarked_resume.py`: generator script used to create the R04 benchmarked resume
 - `source/create_r05_project_verified_full_resume.py`: generator script used to create the R05 project-verified resume
+- `source/create_r06_privacy_clean_full_resume.py`: generator script used to create the R06 privacy-clean resume

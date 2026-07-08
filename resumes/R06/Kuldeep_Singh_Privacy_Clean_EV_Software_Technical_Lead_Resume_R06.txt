@@ -1,0 +1,86 @@
+KULDEEP SINGH
+Automotive EV Software & Technical Lead - Simulink/Stateflow, eVCU/BMS, CAN, HV Battery
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+EXECUTIVE SUMMARY
+Automotive EV software and technical lead with 8 years delivering commercial EV, hybrid bus, HV battery, embedded electronics, and vehicle integration programmes from requirements and architecture to model-based software, generated build outputs, validation evidence, and ICAT/ARAI homologation. Hands-on manager across MATLAB/Simulink/Stateflow, eVCU/BMS logic, CAN/J1939 diagnostics, HV battery systems, charging, DCDC/OBC/PDU, supplier readiness, requirements traceability, V-model delivery, functional-safety discipline, and cross-functional release.
+
+LEAD-ROLE FIT
+- Lead roles: EV Software Lead, eVCU/BMS Lead, Vehicle Controls Lead, Technical Manager, Systems Integration Lead, MBD/Controls Lead.
+- Domain proof: certified commercial EVs, P4 hybrid bus, project-verified hybrid control model, 5 kWh to 300 kWh HV battery systems, AC/DC charging, embedded electronics, telematics, and vehicle validation.
+- Delivery strength: converts customer/supplier requirements into Simulink/Stateflow logic, CAN databases, calibration outputs, bench/vehicle tests, issue closure, and release-ready evidence.
+
+PROJECT-VERIFIED SIMULINK / STATEFLOW PROOF
+- Independently developed and iterated a project-verified hybrid control programme in MATLAB/Simulink/Stateflow, with final model revisions, harness metadata, and generated target artifacts.
+- Implemented hybrid control logic covering torque/speed requests, assist/regen strategies, temperature derate updates, fault handling, drive readiness, BMS state inputs, SOC, charging limits, precharge, contactor, and safe operating behaviour.
+- Built CAN/J1939 communication layers using DBC/ECOCAN-style message definitions for VCU, BMS, motor controller, charger, telematics, remote access, diagnostics, battery status, motor status, and vehicle status signals.
+- Produced calibration/build evidence including MOT firmware outputs, A2L measurement/calibration files, MF4 test logs, code-log sheets, and multiple model release revisions for bench and vehicle validation.
+- Integrated supplier motor-controller and HV battery interfaces with BMS charge logic, torque/speed control, telematics, DTC/DM01-style diagnostic signals, fault reset, MCU enable, active discharge, precharge, and temperature behaviour.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Lead EV and P4 hybrid product development across ECU application software, HV battery engineering, power electronics, supplier development, vehicle integration, validation, and homologation readiness.
+- Develop BMS/eVCU/VCU application software in MATLAB/Simulink/Stateflow, translating functional requirements and safety constraints into drive, charge, assist, regen, diagnostic, fault, derate, and safe-state logic.
+- Define SORs, component specifications, CAN signal interfaces, test evidence, and supplier deliverables for motor, HV battery, PDU, DCDC, OBC, gearbox, controllers, EPS, BCS, TCS, HVAC, telematics, instrumentation, and embedded electronics.
+- Architect certified commercial EV systems from requirement capture through ICAT/ARAI outputs, linking hardware, software, supplier readiness, validation evidence, vehicle acceptance, and release documentation.
+- Design/package 5 kWh to 300 kWh HV battery systems across 72V-800V LFP, NMC, LTO, and ultra-capacitor chemistries, including BMU/BMS logic, contactor/precharge, BTMS/HVAC, charging handshake, and pack integration.
+- Use CAN diagnostics, DBC review, MF4/test-data analysis, bench/vehicle testing, calibration behaviour review, DFMEA/RCA, and MIL/SIL/HIL-ready model practices to reduce validation cycles and close issues.
+- Manage internal engineering teams and external suppliers across mechanical, electrical, embedded software, battery, power electronics, quality, and vehicle integration workstreams; communicate risk, readiness, and closure to leadership.
+
+RELEASE & VALIDATION EVIDENCE
+- Maintained revision discipline across Simulink model variants, code-log updates, supplier interface changes, generated outputs, and validation builds so engineering changes were traceable from issue to release evidence.
+- Used MF4 logs, CAN signal review, DBC checks, bench testing, and vehicle trials to tune assist/regen calibration, temperature derate behaviour, charging limits, fault reset, MCU enable, and precharge/active-discharge readiness.
+- Connected model-level logic to vehicle-level outcomes: drive enable, gear state, torque limits, speed limits, BMS mode, pack current/voltage, charge stop, SOC, LV voltage, DTE, telematics status, and fault reporting.
+- Balanced hands-on implementation with supplier coordination across motor controller, HV battery/BMS, charger, telematics, power electronics, and vehicle integration stakeholders.
+
+COMMERCIAL OUTCOMES
+- Delivered engineering work tied to certified road programmes, including ARAI/ICAT evidence, commercial EV integration, hybrid bus certification readiness, and vehicle-level validation closure.
+- Supported quantified outcomes: 119 km ARAI commercial EV range evidence, 140 km 5T EV target support, and 25% fuel-efficiency improvement validation on the P4 hybrid bus platform.
+- Scaled technical ownership from model-level logic to full vehicle systems: HV battery, motor controller, charger, DCDC/OBC/PDU, telematics, instrumentation, diagnostics, supplier readiness, and release documentation.
+
+SELECTED PROGRAMMES & QUANTIFIED PROOF
+- Project-verified hybrid control programme: Simulink/Stateflow hybrid control model with torque/speed, assist/regen, BMS charge, CAN/J1939, telematics, diagnostics, MF4 logs, MOT, and A2L build/calibration evidence.
+- 16T P4 hybrid bus: ICAT-certified platform with super-capacitor energy storage and validated 25% fuel-efficiency improvement; supported system integration, pilot fleet trials, validation evidence, and certification readiness.
+- 6.5T LCV/LPT commercial EV: ARAI-homologated platform with 80 kW powertrain, 53 kWh / 320V LFP battery, and 119 km range; contributed eVCU/BMS logic, DCDC/PDU/OBC integration, diagnostics, safety logic, and validation.
+- 5T commercial EV: supported 80 kW powertrain, 56 kWh / 310V NMC battery system, 140 km range target, HV battery integration, power electronics interfaces, supplier coordination, and vehicle validation.
+- Multi-platform EV conversions: supported sedan and light commercial EV conversions across HV battery, charger, DCDC, controller, vehicle controls, diagnostics, CAN integration, and validation.
+
+BATTERY, CHARGING, EMBEDDED & VALIDATION PORTFOLIO
+- Battery and charging: 53 kWh/332V LFP truck pack, 11.5 kWh/332V LTO hybrid bus pack, 28 kWh NMC pack, 0.5 kWh/400V ultra-capacitor pack, AC/DC charging controller logic, charger/BMS/VCU coordination, HV-LV handshake, contactor/precharge, and fault response.
+- Control and diagnostics: torque request, speed limit, gear, brake, accelerator, MCU enable, fault reset, active discharge, FailGrade, motor speed/torque/current, DC voltage/current, DTC/SPN-style diagnostics, remote access, and vehicle status interfaces.
+- Embedded electronics: LV/HV PDU, STM32F4/F1 instrument cluster, Quectel dual-CAN telematics unit, ultra-capacitor cell monitoring/control system, battery-related software interfaces, and CAN-based diagnostics.
+- Validation evidence: model revisions, Simulink harness, Stateflow logic, DBC/CAN message review, MF4 logs, code-log updates, temperature derate tuning, assist/regen calibration, bench/vehicle testing, and release-quality documentation.
+
+PROJECT IMPLEMENTATION DEPTH
+- Project evidence confirmed two final Simulink models, MATLAB communication/control scripts, one DBC with 26 messages and 211 signals, two code-log sheets, MF4 logs, and generated target-output evidence.
+- Communication logic covered J1939, torque/speed control, BMS charging, supplier battery messages, LTO battery frames, and telematics vehicle/battery/motor status.
+- DBC and model evidence covered demanded torque/speed, torque limits, motor speed/torque/current, DC voltage/current, FailGrade, MCU enable, active discharge, BMS state/mode, precharge ready, charge stop, and EV fault signals.
+- Code-log evidence showed assist/regen calibration, temperature-derate updates around 40-42 degC, cut-off voltage changes, and validation-oriented tuning notes rather than only paper-level responsibility.
+- Presents implementation details at a resume-safe level while preserving strong evidence of model ownership, build artifacts, CAN/database work, calibration updates, and validation data.
+
+TECHNICAL TOOLKIT & DELIVERY METHODS
+- Software and MBD: MATLAB, Simulink, Stateflow, Model-Based Design, Embedded C/C++, generated build artifacts, calibration/measurement files, requirements traceability, V-model, MIL/SIL/HIL readiness.
+- Automotive software: eVCU, VCU, BMS, vehicle controls, operating-state logic, diagnostics, fault handling, derating, safe-state behaviour, calibration, validation, release evidence, software/hardware integration.
+- Networks and tools: CAN, J1939, DBC, ECOCAN-style scripts, Vector CANoe, Peak CAN, Bus Master, CSS Electronics, MF4 logs, A2L, MOT, UDS-aware diagnostics, DTC/SPN concepts.
+- EV systems: HV battery, LFP, NMC, LTO, ultra-capacitor, DCDC, OBC, PDU, charger, contactor, precharge, BTMS/HVAC, motor controller, e-drive/EDU, commercial EV, hybrid powertrain.
+- Leadership and process: technical manager, supplier development, cross-functional leadership, DFMEA, RCA, DMAIC, SPC, control charts, SOR, ISO 26262, IATF 16949, Six Sigma, AUTOSAR basics, SDV awareness.
+
+AUTOMOTIVE LEADERSHIP & DELIVERY
+- Lead end-to-end technical delivery across requirements, architecture, model logic, supplier interfaces, calibration, generated artifacts, integration, validation, homologation, and leadership reporting.
+- Strong match for automotive teams needing a manager who can still read model logic, CAN databases, fault interfaces, battery limits, charger handshakes, and validation data personally.
+- Comfortable with OEM/Tier-1 language: V-model, requirements traceability, release evidence, DFMEA/RCA, supplier issue closure, ISO 26262 awareness, IATF 16949 discipline, and production-readiness gates.
+
+APPLICATION SCOPE
+- Best-fit applications: Automotive EV Software Lead, Vehicle Controls Lead, eVCU/BMS Lead, Technical Manager, Battery Systems Lead, Systems Integration Lead, and MBD/Validation Lead.
+- Can contribute at both levels: management of teams/suppliers and direct technical review of Simulink logic, CAN databases, calibration files, logs, diagnostic behaviour, and validation evidence.
+- Useful for OEM, Tier-1, EV startup, commercial vehicle, battery, power-electronics, and engineering-services roles where software, hardware, validation, and delivery meet.
+
+CERTIFICATIONS
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & SIMULINK - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech - Mechanical Engineering, VIT University, Vellore, Tamil Nadu | 2014 - 2018 | First Class, 75%

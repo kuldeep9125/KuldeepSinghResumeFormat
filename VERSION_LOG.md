@@ -1,5 +1,22 @@
 # Version Log
 
+## R06 - 2026-07-08
+
+Privacy-clean full two-page automotive EV software and technical lead resume.
+
+Focus areas:
+
+- Removed specific project names, supplier names, project codes, file names, archive paths, and revision/file identifiers from the resume wording
+- Preserved the technical achievement in generic professional language: hybrid control model ownership, Simulink/Stateflow, CAN/J1939, BMS charge, torque/speed, assist/regen, telematics, diagnostics, generated outputs, calibration files, and validation logs
+- Kept the two-page full layout from R05 while making it safer for broad applications, recruiter sharing, and public GitHub storage
+- Updated package notes and README wording to point applicants to the privacy-clean R06 version
+
+Package notes:
+
+- Includes DOCX, rendered PDF, ATS/plain-text copy, README, and privacy-clean project notes.
+- Render workflow confirmed exactly two pages with no clipping, overlap, or awkward page break.
+- Text audit confirmed the R06 resume does not contain the removed project identifiers.
+
 ## R05 - 2026-07-08
 
 Project-verified full two-page automotive EV software and technical lead resume.
@@ -7,7 +24,7 @@ Project-verified full two-page automotive EV software and technical lead resume.
 Focus areas:
 
 - Fixed the visible page-gap issue from R04 by filling both pages with useful technical and programme evidence rather than whitespace
-- Integrated resume-safe evidence from the provided NIDEC G02 + Microvast archive, including Simulink/Stateflow final models, CAN/J1939 communication scripts, DBC, MF4 logs, code-log sheets, MOT firmware outputs, and A2L calibration/measurement files
+- Integrated resume-safe evidence from the provided hybrid-control archive, including Simulink/Stateflow final models, CAN/J1939 communication scripts, DBC, MF4 logs, code-log sheets, MOT firmware outputs, and A2L calibration/measurement files
 - Added page-1 proof for hands-on model ownership, torque/speed, assist/regen, BMS charge, precharge, SOC, fault, telematics, diagnostics, and validation behaviour
 - Added stronger release and validation evidence: revision discipline, supplier interface changes, generated outputs, bench/vehicle testing, DBC review, and commercial outcomes
 - Preserved confidentiality by avoiding copied source code, CAN IDs, proprietary logic, and implementation internals in the resume
