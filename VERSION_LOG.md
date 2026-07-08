@@ -1,5 +1,23 @@
 # Version Log
 
+## R05 - 2026-07-08
+
+Project-verified full two-page automotive EV software and technical lead resume.
+
+Focus areas:
+
+- Fixed the visible page-gap issue from R04 by filling both pages with useful technical and programme evidence rather than whitespace
+- Integrated resume-safe evidence from the provided NIDEC G02 + Microvast archive, including Simulink/Stateflow final models, CAN/J1939 communication scripts, DBC, MF4 logs, code-log sheets, MOT firmware outputs, and A2L calibration/measurement files
+- Added page-1 proof for hands-on model ownership, torque/speed, assist/regen, BMS charge, precharge, SOC, fault, telematics, diagnostics, and validation behaviour
+- Added stronger release and validation evidence: revision discipline, supplier interface changes, generated outputs, bench/vehicle testing, DBC review, and commercial outcomes
+- Preserved confidentiality by avoiding copied source code, CAN IDs, proprietary logic, and implementation internals in the resume
+
+Package notes:
+
+- Includes DOCX, rendered PDF, ATS/plain-text copy, README, and high-level project scan notes.
+- Resume remains generic for broad automotive lead applications while using the project as concrete proof.
+- Render workflow confirmed exactly two pages with no clipping, overlap, or awkward page break.
+
 ## R04 - 2026-07-08
 
 Automotive-benchmarked lead-role resume package.
