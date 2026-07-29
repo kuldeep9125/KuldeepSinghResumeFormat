@@ -1,5 +1,24 @@
 # Version Log
 
+## R08 - 2026-07-29
+
+Enhanced EV Technical Manager resume package.
+
+Focus areas:
+
+- Added confirmed leadership scope across Manufacturing, Electrical & Electronics, and Mechanical Design, including 6 direct and 6 indirect team members
+- Added reporting and project-initiation responsibility with the Business Development Lead and Company Director
+- Strengthened end-to-end ownership from business need, architecture, and ECU software through vehicle integration, validation, homologation, and production readiness
+- Rewrote experience bullets around action, scope, technical judgment, and outcomes while reducing repeated keyword blocks
+- Consolidated quantified delivery proof for the 16T P4 hybrid bus, 6.5T ARAI-homologated EV, 5T commercial EV, and certified energy-storage portfolio
+- Preserved privacy-clean wording and strong ATS coverage for EV Technical Manager, Vehicle Controls, BMS/eVCU, EV Systems, and Electrified Powertrain roles
+
+Package notes:
+
+- Includes DOCX, application-ready PDF, ATS/plain-text copy, README, enhancement notes, and the reproducible generator script.
+- Render workflow confirmed exactly two pages with no clipping, overlap, or crowded page furniture.
+- Local package retained under `/Users/kuldeepsingh/Downloads/RESUME/R08_Enhanced_EV_Technical_Manager_Resume`.
+
 ## R07 - 2026-07-08
 
 HR-reviewed duplicate-reduced EV Technical Manager resume package.

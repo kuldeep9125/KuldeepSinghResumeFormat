@@ -1,3 +1,6 @@
 .DS_Store
 ~$*.docx
 *.tmp
+.qa/
+__pycache__/
+*.pyc

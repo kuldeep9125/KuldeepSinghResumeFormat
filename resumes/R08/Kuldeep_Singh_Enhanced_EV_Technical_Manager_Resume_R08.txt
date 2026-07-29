@@ -1,0 +1,50 @@
+KULDEEP SINGH
+EV Technical Manager | Vehicle Controls, BMS & Electrified Powertrain Integration
+kuldeeppatel9125@gmail.com | +91 99448 76466 | Noida, India | linkedin.com/in/kuldeep9125
+
+EXECUTIVE PROFILE
+EV Technical Manager with 8 years of experience delivering electric and hybrid vehicle platforms from business need and system architecture through ECU software, vehicle integration, validation, homologation, and production readiness. Combines hands-on expertise in MATLAB/Simulink/Stateflow, eVCU/BMS controls, CAN/J1939 diagnostics, high-voltage batteries, charging, and power electronics with leadership of multidisciplinary engineering teams and suppliers. Delivered ARAI/ICAT-certified commercial EV and hybrid programmes, including a validated 25% fuel-efficiency improvement.
+
+LEADERSHIP & DELIVERY SNAPSHOT
+- End-to-end programme ownership: translate business requirements into architecture, SORs, development plans, supplier deliverables, validation evidence, certification outputs, and release readiness.
+- Cross-functional leadership: lead Manufacturing, Electrical & Electronics, and Mechanical Design with 6 direct and 6 indirect team members; report project initiation, priorities, risks, and readiness to the Business Development Lead and Company Director.
+- Technical depth with delivery focus: bridge vehicle-level performance, ECU software, HV safety, component interfaces, manufacturing constraints, cost, timing, and homologation requirements.
+
+PROFESSIONAL EXPERIENCE
+Technical Manager - Product Development
+IX Energy Pvt. Ltd., Noida, India | Jul 2018 - Present
+- Lead new EV and P4 hybrid vehicle-platform development across requirements, system architecture, ECU application software, HV battery engineering, power electronics, supplier development, vehicle integration, validation, and homologation.
+- Own project initiation inputs by identifying customer and business needs, defining the next development stage, estimating technical scope, and presenting programme readiness and key decisions for leadership approval.
+- Develop and review BMS/eVCU/VCU firmware and application software in MATLAB/Simulink/Stateflow for drive, charge, assist, regenerative braking, torque/speed control, diagnostics, derating, precharge, active discharge, fault response, and safe-state behaviour.
+- Architect and package 5 kWh to 300 kWh battery systems across 72V-800V LFP, NMC, LTO, and ultra-capacitor technologies, covering BMS/BMU logic, contactor strategy, precharge, charging handshake, thermal management, protection, and vehicle integration.
+- Define SORs, technical specifications, CAN/DBC interfaces, DVP expectations, acceptance criteria, and release evidence for motors, batteries, PDU, DCDC, OBC, chargers, gearboxes, controllers, HVAC, telematics, instrumentation, and embedded electronics.
+- Drive bench and vehicle issue resolution using CAN diagnostics, J1939/DBC review, MF4 and test-data analysis, calibration, DFMEA, root-cause analysis, supplier reviews, and structured closure tracking.
+- Govern programme risks, design maturity, supplier readiness, validation status, change control, and certification evidence while balancing performance, range, thermal limits, safety, serviceability, cost, timing, and manufacturability.
+
+SELECTED PROGRAMME IMPACT
+- 16T P4 hybrid bus: delivered an ICAT-certified platform with ultra-capacitor energy storage and a validated 25% fuel-efficiency improvement through controls integration, pilot-fleet trials, issue closure, and certification readiness.
+- 6.5T commercial EV: delivered an ARAI-homologated platform with an 80 kW powertrain, 53 kWh / 320V LFP battery, and 119 km certified range; contributed eVCU/BMS logic, DCDC/PDU/OBC integration, diagnostics, HV safety, and validation.
+- 5T commercial EV: engineered vehicle and HV-system integration for an 80 kW powertrain and 56 kWh / 310V NMC battery with a 140 km range target, coordinating interfaces, suppliers, power electronics, and vehicle validation.
+- Certified energy-storage portfolio: supported 53 kWh/332V LFP, 11.5 kWh/332V LTO, 28 kWh NMC, and 0.5 kWh/400V ultra-capacitor systems from design and controls through integration and homologation evidence.
+
+MODEL-BASED CONTROLS, FIRMWARE & VALIDATION
+- Independently developed and validated a hybrid-control model in MATLAB/Simulink/Stateflow, including model revisions, generated target outputs, calibration artefacts, and bench/vehicle evidence.
+- Implemented torque and speed requests, assist/regen, SOC and charge limits, thermal derating, contactor/precharge sequencing, MCU enable, fault reset, active discharge, diagnostics, telematics status, and safe-state logic.
+- Built CAN/J1939 and DBC-based communication among VCU, BMS, motor controller, charger, telematics, and vehicle systems; used MF4 logs and calibration evidence to tune controls and support release decisions.
+- Developed and integrated LV/HV PDU functions, STM32F4/F1 instrument-cluster electronics, a dual-CAN telematics unit, and an ultra-capacitor monitoring/control system with CAN-based diagnostics.
+
+CORE TECHNICAL EXPERTISE
+Vehicle & powertrain: EV/P4 hybrid architecture, e-drive/EDU, eVCU/VCU, BMS, HV battery, charging, DCDC, OBC, PDU, motor controller, BTMS/HVAC, vehicle integration, homologation
+Software & controls: MATLAB, Simulink, Stateflow, Model-Based Design, Embedded C/C++, ECU firmware/application software, control logic, calibration, generated outputs, A2L/MOT artefacts
+Networks & diagnostics: CAN, J1939, DBC, Vector CANoe, Peak CAN, BusMaster, CSS Electronics, MF4 logs, UDS awareness, DTC/SPN diagnostics, signal and interface analysis
+Systems & validation: requirements, SOR, V-model lifecycle, interface control, DVP, MIL/SIL/HIL readiness, bench/vehicle testing, traceability, release documentation, ARAI/ICAT evidence
+Quality & leadership: ISO 26262 awareness, IATF 16949, DFMEA, RCA, Six Sigma/DMAIC, supplier development, risk reviews, change control, team mentoring, production readiness
+
+CERTIFICATIONS
+- Six Sigma Black Belt - Certified
+- ISO 26262 Functional Safety for Road Vehicles - TUV SUD Certified
+- IATF 16949:2016 Automotive Quality Management - TUV SUD Certified
+- AWS IoT & Simulink - Amazon Web Services / MathWorks Certified
+
+EDUCATION
+B.Tech, Mechanical Engineering | VIT University, Vellore | 2014 - 2018 | First Class, 75%
